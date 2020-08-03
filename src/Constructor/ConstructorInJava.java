@@ -8,6 +8,8 @@ public class ConstructorInJava {
 		//ConstructorDemo cd=new ConstructorDemo();
 		ConstructorDemo cd2=new ConstructorDemo(10,"Ajay");
 		
+		ConstructorDemo cd3=new ConstructorDemo(10,"abc");
+		
 		cd2.printValues();
 		
 		newclass nc=new newclass();
